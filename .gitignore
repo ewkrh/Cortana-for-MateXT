@@ -1,0 +1,29 @@
+# Android / Gradle
+.gradle/
+build/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Keystores and secrets
+*.jks
+*.keystore
+keystore.properties
+.env
+.env.*
+
+# Logs
+*.log
+
+# Generated APK/AAB
+*.apk
+*.aab
